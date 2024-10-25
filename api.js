@@ -1,6 +1,3 @@
-const apiKey = "HVH7RYW8QEQ8CUJ6JNU3TF8CT"
-//vagaca3451@regishub.com
-//YZM8x9MzYMThDFf3Ca3o
 
 
 async function getWeather(location){
